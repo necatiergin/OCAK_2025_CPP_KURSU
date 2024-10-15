@@ -6,14 +6,14 @@
 
 ✅Kurs eğitmeni Necati Ergin'dir.
 
-✅ Kurs 14 Ocak 2025 Salı günü başlayacaktır.
+✅ Kurs **14 Ocak 2025 Salı** günü başlayacaktır.
 
-⏰ Dersler Salı, Perşembe ve Cuma günleri 19:30 - 22:30 saatleri arasında yapılacaktır.
+⏰ Dersler **Salı, Perşembe ve Cuma günleri 19:30 - 22:30** saatleri arasında yapılacaktır.
 
-⌛ Kursun toplam süresi 200 saattir.
+⌛ Kursun toplam süresi **200** saattir.
 
-✅ Programın toplam ücreti 35.000 TL'dir. Peşin ödemede 31.500 TL'dir.<br>
-Öğrenci olanlar için kurs ücreti 31.500 TL'dir. Peşin ödemede 28.500 TL'dir.
+✅ Programın toplam ücreti **35.000 TL**'dir. Peşin ödemede **31.500 TL**'dir.<br>
+Öğrenci olanlar için kurs ücreti **31.500** TL'dir. Peşin ödemede **28.500** TL'dir.
 Kurs ücreti 2 taksit olarak ödenebilir.<br>
 Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir. 
 
