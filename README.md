@@ -2,9 +2,9 @@
 
 ✅ Bu kurs katılımcıların öncelikle C++ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
-✅ Bu kurs Plepa Eğitim Hizmetleri tarafından düzenlenmektedir.
+✅ Bu kurs **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
 
-✅Kurs eğitmeni Necati Ergin'dir.
+✅Kurs eğitmeni **Necati Ergin**'dir.
 
 ✅ Kurs **14 Ocak 2025 Salı** günü başlayacaktır.
 
