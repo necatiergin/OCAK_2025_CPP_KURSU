@@ -1,6 +1,6 @@
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana eğitim vermektedir. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. 
 __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
-__Necati Ergin__'in eğitim verdiği kurumlar arasında 
+__Necati Ergin__'in eğitim verdiği bazı kurumlar: 
 
 
 [Accenture](https://www.accenture.com/us-en),
