@@ -4,7 +4,8 @@
 
 ✅ Bu kurs **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
 
-✅Kurs eğitmeni **Necati Ergin**'dir.
+👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
+**&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
 ✅ Kurs **14 Ocak 2025 Salı** günü başlayacaktır.
 
