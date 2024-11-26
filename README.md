@@ -24,7 +24,7 @@ Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımla
 
 ✅ Kursta Modern C++ anlatılmaktadır. C++11, C++14, C++17 ve C++20 standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. C++ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan STL ayrıntılı bir şekilde ele alınmaktadır.
 
-⚠Kursta C++ dilinin C'den aldığı genel sentaks ögeleri ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
+⚠ Kursta C++ dilinin C'den aldığı genel sentaks ögeleri ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
 
 ## Kursla ilgili bağlantılar:
 
