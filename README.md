@@ -17,9 +17,8 @@
 Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br>
 
-✅ Programın toplam ücreti **35.000 TL**'dir. Peşin ödemede **31.500 TL**'dir.<br>
-Öğrenci olanlar için kurs ücreti **31.500** TL'dir. Peşin ödemede **28.500** TL'dir.<br>
-Kurs ücreti 2 taksit olarak ödenebilir.<br>
+✅ Programın toplam ücreti **30.000 TL**'dir. <br>
+Öğrenci olanlar için kurs ücreti **28.000** TL'dir. Kurs ücreti 2 taksit olarak ödenebilir.<br>
 Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir. 
 
 ✅ Kursta Modern C++ anlatılmaktadır. C++11, C++14, C++17 ve C++20 standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. C++ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan STL ayrıntılı bir şekilde ele alınmaktadır.
